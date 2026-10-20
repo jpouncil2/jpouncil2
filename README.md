@@ -2,7 +2,7 @@
 
 **Systems Engineer · Technical Product Leader · AI Applications & Automation**
 
-I build software that connects product strategy, systems architecture, and implementation. My work spans large-scale real-time systems, full-stack applications, AI-powered workflows, and operational automation. I turn ambiguous problems into working products, then stay close to the code and the user experience through review and validation.
+I bring 14+ years of engineering and product experience to software that connects product strategy, systems architecture, and implementation. My work spans large-scale real-time systems, full-stack applications, AI-powered workflows, and operational automation. I turn ambiguous problems into working products, then stay close to the code and the user experience through review and validation.
 
 ## Selected work
 
